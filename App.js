@@ -8,11 +8,6 @@ import SecondScreen from "./screens/SecondScreen";
 
 const Stack = createStackNavigator();
 
-
-
-
-
-
 export default function App() {
 
   return (
